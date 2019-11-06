@@ -1,2 +1,2 @@
-# Project-Euler
-Solutions to project Euler
+#code-solutions
+code solutions for a website
